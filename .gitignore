@@ -1,0 +1,4 @@
+debian/*.debhelper*
+debian/*.substvars
+debian/linux-firmware-rtlwifi/
+debian/files

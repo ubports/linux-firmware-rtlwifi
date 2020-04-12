@@ -1,0 +1,5 @@
+linux-firmware-rtlwifi (20200412) xenial; urgency=medium
+
+  * Initial release
+
+ -- Dalton Durst <dalton@ubports.com>  Sun, 12 Apr 2020 11:31:58 -0500
