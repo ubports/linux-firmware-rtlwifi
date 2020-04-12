@@ -1,4 +1,4 @@
-linux-firmware-rtlwifi (20200316-0ubports0) xenial; urgency=medium
+linux-firmware-rtlwifi (20200316+0ubports0) xenial; urgency=medium
 
   * Initial release
 
